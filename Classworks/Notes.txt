@@ -1,0 +1,9 @@
+What was taught in the class.
+
+1. Why machine learning
+2.probability distribution function
+3.CDF
+4.Gaussian distribution
+5. Why plotting
+6. Types of plots
+7. iris dataset
