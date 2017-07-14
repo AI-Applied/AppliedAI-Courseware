@@ -1,0 +1,5 @@
+does number of thing which follow gaussian distribution follow distribution?
+
+why to square when we can take mod  for variance
+
+multiple methods to say "How similar two random distributions are!"

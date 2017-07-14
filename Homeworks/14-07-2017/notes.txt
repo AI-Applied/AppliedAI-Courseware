@@ -1,0 +1,5 @@
+This is the first assignments on data visualization, please refer the first class notes for visualization graphs.
+you can get the data from https://www.kaggle.com/gilsousa/habermans-survival-data-set.
+try to document every plot and every analysis you do
+please refer this link for how to document your work, https://www.kaggle.com/benhamner/python-data-visualizations.
+

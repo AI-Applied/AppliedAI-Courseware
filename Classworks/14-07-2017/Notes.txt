@@ -1,0 +1,12 @@
+What was the class about
+
+
+1. gaussian distribution equations
+2. central limit theorem
+3. important distributions
+4. importance of getting unbiased data(USA election example{Trump winning :-)})
+5. mean
+6. standard deviation
+7. variance
+8. why squared, but not absolute value while taking standard deviation(Will be discussed while talking about optimization)
+9. Google can plot graphs!(did not know before)
